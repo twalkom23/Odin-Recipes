@@ -1,1 +1,1 @@
-# Odin-Recipes
+This will be my first project of the Odin Project, the project is called recipes and it will be testing my skills in HTML. I have got a good understanding of how to add text etc but still struggle with the Git side of things but am getting there.
